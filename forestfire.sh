@@ -2,8 +2,8 @@
 
 LINES=`tput lines` # Number of rows x
 COLS=`tput cols`   # Number of columns y
-F="0.000001"        # Probability for burning tree
-P="0.01"           # Probability for growing tree
+F="0.00001"        # Probability for burning tree
+P="0.001"          # Probability for growing tree
 
 clear
 
