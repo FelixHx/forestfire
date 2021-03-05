@@ -3,8 +3,7 @@
 BEGIN{
   TREE    = "T"
   BURNING = "w"    # w looks like fire, right?
-  # EMPTY isnt initialized, so it is Null
-  # Get height and width from command line
+  # Get height, width and probabilities from command line
   X = ARGV[1]
   Y = ARGV[2]
   F = ARGV[3]
