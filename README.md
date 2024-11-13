@@ -4,7 +4,7 @@ Implementation of Coding Kata https://rosettacode.org/wiki/Forest_fire in awk
 
 Start with 
 
-    ./forestfire.sh <height> <width> <F> <P>
+    ./forestfire.awk <height> <width> <F> <P>
     ./forestfire.awk 40 200 0.0001 0.01
 
 or use wrapper script
